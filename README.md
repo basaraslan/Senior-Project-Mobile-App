@@ -13,10 +13,15 @@ Detailed information can be found below link;
 https://bzelihagunay.wixsite.com/receipt-analyzer/s-projects-side-by-side
 
 
+
+
+
 The detailed setup process is in the User Manual - Setup Instruction pdf file.
 
-Screenshots from the Android-based app
 
+
+
+Screenshots from the Android-based app;
 
 ![3](https://github.com/basaraslan/Senior-Project-Mobile-App/assets/69193881/c6dcec67-cb65-4ea6-9473-24b4d53d4875)
 
