@@ -9,6 +9,9 @@ Used technologies: OCR (Optical Character Recognition), Cropping the image, Line
 ![image](https://github.com/basaraslan/Senior-Project-Mobile-App/assets/69193881/0c5c1f5d-e743-4ae4-8761-1f29c2ba53f1)
 
 
+Detailed information can be found below link;
+https://bzelihagunay.wixsite.com/receipt-analyzer/s-projects-side-by-side
+
 
 
 Screenshots from the Android-based app
