@@ -13,6 +13,7 @@ Detailed information can be found below link;
 https://bzelihagunay.wixsite.com/receipt-analyzer/s-projects-side-by-side
 
 
+The detailed setup process is in the User Manual - Setup Instruction pdf file.
 
 Screenshots from the Android-based app
 
