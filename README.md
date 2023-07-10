@@ -6,11 +6,19 @@ You must first connect the mobile application to Firebase since it uses Firebase
 Used technologies: OCR (Optical Character Recognition), Cropping the image, LineChart, displaying an x/y coordinate graph to the end user.
 
 
+
+Poster of the project: ![Slayt1](https://github.com/basaraslan/Senior-Project-Mobile-App/assets/69193881/36f0db22-44d4-4060-a524-12ee6a132352)
+
+
+
+
+
 ![image](https://github.com/basaraslan/Senior-Project-Mobile-App/assets/69193881/0c5c1f5d-e743-4ae4-8761-1f29c2ba53f1)
 
 
 Detailed information can be found below link;
 https://bzelihagunay.wixsite.com/receipt-analyzer/s-projects-side-by-side
+
 
 
 
